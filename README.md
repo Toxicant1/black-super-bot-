@@ -30,7 +30,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator- 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Blackie254?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackie254?label=Followers&style=social"></a>
+<a href="https://github.com/Toxicant1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxicant1label=Followers&style=social"></a>
 <a href="https://github.com/Blackie254/black-super-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackie254/black-super-bot?&style=social"></a>
 <a href="https://github.com/Blackie254/black-super-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Blackie254/black-super-bot?style=social"></a>
 <a href="https://github.com/Blackie254/black-super-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackie254/black-super-bot?label=Watching&style=social"></a>
