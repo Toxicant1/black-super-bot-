@@ -113,7 +113,7 @@ Linking/Pairing:
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p> 
-  <h1 align="center">𝐂𝐑𝐄𝐃𝐈𝐓𝐒 𝐓𝐎 𝐍𝐈𝐂𝐊 𝐇𝐔𝐍𝐓𝐄𝐑 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐁𝐀𝐒𝐄</h1>
+  <h1 align="center">𝐂𝐑𝐄𝐃𝐈𝐓𝐒 𝐓𝐎 𝕀𝕤𝕙𝕒𝕢 𝐇𝐔𝐍𝐓𝐄𝐑 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐁𝐀𝐒𝐄</h1>
   </a>
   <!-- Glowing Footer -->
 <p align="center">
