@@ -1966,7 +1966,7 @@ case "support": {
             channel: "https://whatsapp.com/channel/0029VawxyHxLdQeX3kA96G3N",
             email: "mailto:cryptoboy1649@gmail.com",
             github: "https://github.com/black-super-bot/issues",
-            developer: "https://wa.me/254114283550"
+            developer: "https://wa.me/254741819582"
         },
         media: {
             banner: "https://files.catbox.moe/xiflcv.jpeg"
@@ -3485,7 +3485,7 @@ case "remove": case "kick": {
         let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : null;
         const parts = users.split('@')[0];
 
-if (users == "254114283550@s.whatsapp.net") return m.reply("It's an Owner Number! 😡");
+if (users == "254741819582@s.whatsapp.net") return m.reply("It's an Owner Number! 😡");
 
           if (users  == client.decodeJid(client.user.id)) throw 'I cannot remove Myself 😡';
 
@@ -3832,7 +3832,7 @@ case 'sc': case 'script': case 'repo':
           𝐁𝐋𝐀𝐂𝐊-𝐌𝐃 𝐕3
  The Ultimate WhatsApp Bot
 ╚══≪ ✦ ≫══════════≪ ✦ ≫══╝\n\n🔷 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨:
-   ↳ https://github.com/Blackie254/black-super-bot
+   ↳ https://github.com/Toxicant1/BLACKMERCHANT-.git
    ★ Don't forget to Fork & Star!.\n\n 🔶 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐏𝐚𝐢𝐫𝐢𝐧𝐠:
    ↳ https://blacks-pair.onrender.com
    ★ Save your Session-ID!\n\n.⚙️ 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
