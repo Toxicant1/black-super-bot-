@@ -125,7 +125,7 @@ Linking/Pairing:
 
 ## License
 
-[MIT License]((https://github.com/Blackie254/black-super-bot)/LICENSE)
+[MIT License]((https://github.com/TOXICANT1/BLACKMERCHANT)/license)
 
 Copyright (c) 2025 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓  
 
